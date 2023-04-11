@@ -14,8 +14,8 @@
 
 <p align="center" class="d-flex justify-content-center align-items-center">
   <a href="https://github.com/ThadzBotz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThadzBotz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThadzBotz&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rplvrtha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rplvrtha&layout=compact&langs_count=10&theme=dark"/>
   </a>
 </p>
 
