@@ -6,7 +6,7 @@
 ### 🛠 &nbsp;Tech Stacks
 
 ![Node.js](https://img.shields.io/badge/-Node.js-151515?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-151515?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-151515?style=flat&logo=bun.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-151515?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-151515?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
